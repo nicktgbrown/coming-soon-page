@@ -4,7 +4,11 @@ body {
 
 .info {
   font-family: 'Eczar', serif;
-  padding-top: 10%;
+  padding-top: 11%;
+}
+
+.icon:hover {
+  transform: scale(1.1);
 }
 
 h1 {
@@ -27,7 +31,7 @@ body, a:hover {
 }
 
 body, a {
-  font-family: 'Permanent Marker', cursive;  
+  font-family: 'Permanent Marker', cursive;
   color: #000;
   text-decoration: none;
 }
