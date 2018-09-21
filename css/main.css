@@ -1,18 +1,18 @@
 body {
-  background-color: #254d74;
+  background-color: #006699;
 }
 
 .yellow {
-  background-color: #ffd633;
+  background-color: #ffcc66;
 }
 
 .blue {
-  background-color: #254d74;
+  background-color: #006699;
 }
 
-.info {
+.top {
   font-family: 'Eczar', serif;
-  padding-top: 11%;
+  padding-top: 7%;
 }
 
 .icon:hover {
@@ -21,18 +21,19 @@ body {
 
 h1 {
   font-family: 'Permanent Marker', cursive;
-  color: #254d74;
+  color: #006699;
 }
 
 body, h2 {
   font-family: 'Permanent Marker', cursive;
   font-weight: 400;
-  color: #000;
+  color: #006699;
 }
 
-body, p {
-  color: #000;
-  font-weight: 400;
+p {
+  color: #ffcc66;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
 }
 
 body, a {
